@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-pickup-and-local-delivery-dart-desktop",
+  "capabilityKey": "planned:ecommerce:pickup-and-local-delivery",
+  "presentation": "dart-desktop",
+  "package": "module_ecommerce_pickup_and_local_delivery_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/ecommerce/nextjs/pickup-and-local-delivery.md",
+  "presentationPlan": "projects/ecommerce/features/pickup-and-local-delivery.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
